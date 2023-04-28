@@ -1,4 +1,4 @@
-Data Visualization (D3.js) - Iris Dataset
+Data Visualization (D3.js) - World Wide Energy Production & Consumption (1965 - 2022)
 
 Instructions:
 1. Open the project in VS Code
